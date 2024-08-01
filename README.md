@@ -1,5 +1,12 @@
-Clone o repositorio e abra-o em seu visual studio code. Com o python instalado em seu computador, use o comando ``Python script.py > stats.md`` para
+English: Clone the repository and open it in your Visual Studio Code. With Python installed on your computer, use the command ``Python script.py > stats.md`` to
+run the script and save your language statistics in the ``stats.md`` file.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Português: Clone o repositorio e abra-o em seu visual studio code. Com o python instalado em seu computador, use o comando ``Python script.py > stats.md`` para
 executar o script e salvar suas estatisticas de linguagens no arquivo ``stats.md``
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 EXEMPLO:
 ```txt
